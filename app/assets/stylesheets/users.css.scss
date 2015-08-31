@@ -1,10 +1,9 @@
+//users show page styles
 .user-show-avatar{
     height:128px;
     width:128px;
 }
-.user-index-avatar{
-    border-radius:50%;
-}
+
 .job_title_icon{
     display:inline-block;
     width: 30px;
@@ -33,7 +32,10 @@
     border-color: #46b8da;
     
 }
-
+//user index page styles
+.user-index-avatar{
+    border-radius:50%;
+}
 .well.white-bg{
     background-color:white;
 }
